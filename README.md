@@ -2,11 +2,11 @@
 
 **Estudante de Análise e Desenvolvimento de Sistemas**
 
-Olá! Meu nome é **Victor Cardoso**, tenho **24 anos** e resido em **Mossoró, Rio Grande do Norte**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)**.
+Olá! Meu nome é **Victor Cardoso**, tenho **24 anos** e resido em Mossoró, Rio Grande do Norte. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)**.
 
-Estou construindo minha base em programação com foco em **desenvolvimento web**, estudando HTML, CSS e JavaScript através do freeCodeCamp, além de desenvolver projetos próprios para aplicar meus conhecimentos.
+Estou construindo minha base em programação com foco em desenvolvimento web, estudando HTML, CSS e JavaScript através do freeCodeCamp, além de desenvolver projetos próprios para aplicar meus conhecimentos.
 
-Neste perfil, compartilho meus projetos, estudos e minha evolução na área de tecnologia.
+Neste perfil compartilho meus projetos, estudos e minha evolução na área de tecnologia.
 
 ---
 
