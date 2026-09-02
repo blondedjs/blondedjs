@@ -83,29 +83,6 @@ Meu primeiro projeto desenvolvido durante meus estudos de HTML e CSS.
 
 ---
 
-## GitHub Stats
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=blondedjs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="Linguagens mais usadas" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=blondedjs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
-</p>
-
-<br clear="both"/>
-
----
-
 ## Objetivo
 
 Busco evoluir continuamente como desenvolvedor, construir projetos cada vez mais completos e conquistar minha primeira oportunidade profissional na área de tecnologia.
