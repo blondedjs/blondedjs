@@ -1,16 +1,111 @@
-## Hi there 👋
+# Victor Cardoso
 
-<!--
-**blondedjs/blondedjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Análise e Desenvolvimento de Sistemas**
 
-Here are some ideas to get you started:
+Olá! Meu nome é **Victor Cardoso**, tenho **24 anos** e resido em **Mossoró, Rio Grande do Norte**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou construindo minha base em programação com foco em **desenvolvimento web**, estudando HTML, CSS e JavaScript através do freeCodeCamp, além de desenvolver projetos próprios para aplicar meus conhecimentos.
+
+Neste perfil, compartilho meus projetos, estudos e minha evolução na área de tecnologia.
+
+---
+
+## Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML5"
+    title="HTML5" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="CSS3"
+    title="CSS3" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="JavaScript"
+    title="JavaScript" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git"
+    title="Git" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="GitHub"
+    title="GitHub" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+
+<br/>
+<br/>
+
+---
+
+## Atualmente estudando
+
+- HTML5
+- CSS3
+- JavaScript
+- Lógica de programação
+- Git e GitHub
+- Desenvolvimento Web
+
+---
+
+## Projetos
+
+### App Meu Gatinho Fofinho
+
+Meu primeiro projeto desenvolvido durante meus estudos de HTML e CSS.
+
+[Visualizar projeto](https://blondedjs.github.io/html-freeCodeCamp/)
+
+---
+
+## GitHub Stats
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="180" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=blondedjs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="Linguagens mais usadas" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=blondedjs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
+</p>
+
+<br clear="both"/>
+
+---
+
+## Objetivo
+
+Busco evoluir continuamente como desenvolvedor, construir projetos cada vez mais completos e conquistar minha primeira oportunidade profissional na área de tecnologia.
