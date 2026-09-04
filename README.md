@@ -64,13 +64,11 @@ Neste perfil compartilho meus projetos, estudos e minha evolução na área de t
 
 ## Atualmente estudando
 
-- HTML5
-- CSS3
+- Desenvolvimento Web e Design Responsivo para Web
 - JavaScript
 - Lógica de programação
 - Git e GitHub
-- Desenvolvimento Web e Design Responsivo para Web
-
+  
 ---
 
 ## Projetos
