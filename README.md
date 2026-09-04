@@ -66,7 +66,7 @@ Neste perfil compartilho meus projetos, estudos e minha evolução na área de t
 
 - Desenvolvimento Web e Design Responsivo para Web
 - JavaScript
-- Lógica de programação
+- Lógica de Programação
 - Git e GitHub
   
 ---
